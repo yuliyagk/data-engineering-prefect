@@ -9,7 +9,7 @@ It demonstrates how to build and orchestrate data pipelines using Prefect, a mod
 
 The goal of this project is to design and automate a data pipeline that:
 
-- Extracts data from external sources (e.g. NYC Taxi dataset)
+- Extracts data from external sources (NYC Taxi dataset)
 - Transforms and cleans the data
 - Loads the data into a storage system (local or cloud)
 - Orchestrates the workflow using Prefect
