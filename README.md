@@ -20,7 +20,6 @@ The goal of this project is to design and automate a data pipeline that:
 - Prefect (workflow orchestration)
 - Pandas (data transformation)
 - Docker (optional)
-- Cloud Storage (GCS / AWS S3) *(if used)*
 
 ## Workflow
 
