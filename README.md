@@ -38,10 +38,10 @@ The pipeline is implemented as a Prefect flow:
 4. **Orchestration**  
    Manage execution, retries, and scheduling with Prefect
 
+## Example Use Case
 
-## How to Run
+This pipeline can be used for:
 
-### 1. Clone repository
-```bash
-git clone https://github.com/yuliyagk/data-engineering-prefect.git
-cd data-engineering-prefect
+Automated data ingestion
+Scheduled ETL jobs
+Data preparation for analytics or ML
