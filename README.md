@@ -41,6 +41,6 @@ The pipeline is implemented as a Prefect flow:
 
 This pipeline can be used for:
 
-Automated data ingestion
-Scheduled ETL jobs
-Data preparation for analytics or ML
+- Automated data ingestion
+- Scheduled ETL jobs
+- Data preparation for analytics or ML
